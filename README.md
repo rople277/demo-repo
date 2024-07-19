@@ -5,3 +5,6 @@
 
 ##Local development
 1.open index.html in your broswer
+##new state
+open something in your broswer
+
